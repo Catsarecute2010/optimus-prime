@@ -1,0 +1,20 @@
+body{
+    background-image:url("f7.gif") ;
+    background-size: cover;
+    background-position: center;
+    text-align:right;
+    color: red;
+    
+}
+canvas{
+    border-style: inset;
+    border-color: rgba(182, 14, 14, 0.712);
+    border-width: 10px;
+}
+
+
+
+
+
+
+
